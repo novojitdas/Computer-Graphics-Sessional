@@ -12,7 +12,7 @@ Computer Graphics Sessional
 - download [freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
 #### CODES 
-1) [3D SHAPE WITH ANIMATION]() 
+1) [3D SHAPE WITH ANIMATION](https://github.com/novojitdas/Computer-Graphics-Sessional/tree/main/01%203D%20Shape%20with%20Animation) 
 
 <h4 align="center">
   <br>
