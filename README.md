@@ -11,5 +11,14 @@ Computer Graphics Sessional
 - install [codeblocks](https://www.codeblocks.org/downloads/binaries/)
 - download [freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
-#### Updates 
- ..... I'll keep updating
+#### CODES 
+1) [3D SHAPE WITH ANIMATION]() 
+
+<h4 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/RA2DWNf.gif" alt="OUTPUT"></a>
+  <br>
+OUTPUT
+  <br>
+</h4>
+
