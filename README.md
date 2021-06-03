@@ -22,3 +22,13 @@ OUTPUT
   <br>
 </h4>
 
+2) [4 quads with 4 colors](https://github.com/novojitdas/Computer-Graphics-Sessional/blob/main/02%20Lab%20assignments/4quadsOn4area.cpp) 
+
+<h4 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/bzubYEn.png" alt="OUTPUT"></a>
+  <br>
+OUTPUT
+  <br>
+</h4>
+
