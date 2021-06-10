@@ -32,3 +32,36 @@ OUTPUT
   <br>
 </h4>
 
+3) [White Triangle](https://github.com/novojitdas/Computer-Graphics-Sessional/blob/main/02%20Lab%20assignments/triangle.cpp) 
+
+<h4 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/hM4ifiZ.png" alt="OUTPUT"></a>
+  <br>
+OUTPUT
+  <br>
+</h4>
+
+4) [FUN](https://github.com/novojitdas/Computer-Graphics-Sessional/blob/main/02%20Lab%20assignments/nono.cpp) 
+
+<h4 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/XgsulaO.png" alt="OUTPUT"></a>
+  <br>
+OUTPUT
+  <br>
+</h4>
+
+5) [Colored Windows](https://github.com/novojitdas/Computer-Graphics-Sessional/blob/main/02%20Lab%20assignments/coloredwindows.cpp) 
+
+<h4 align="center">
+  <br>
+  <a href=""><img src="https://i.imgur.com/ZIwnBGH.png" alt="OUTPUT"></a>
+  <br>
+OUTPUT
+  <br>
+</h4>
+
+
+
+
